@@ -1,5 +1,6 @@
 # Software-Development-I
-This repository contains a mini game .Created By me & and my classmates for our university(AUST) course : Software Development I  . 
+This repository contains a mini game .[Compressed in files]
+Created By me & and my classmates for our university(AUST) course : Software Development I  . 
 
 Game Description::
 
